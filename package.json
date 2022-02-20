@@ -18,13 +18,15 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "4.0.3",
     "web-vitals": "^2.1.4"
-    "bin":{ "script1": "bin/script1.js" }
+
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "bin":
+    { "script1": "bin/script1.js" }
   },
   "eslintConfig": {
     "extends": [
