@@ -21,12 +21,12 @@
 
   },
   "scripts": {
+    "script1": "node script1.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    "bin":
-    { "script1": "bin/script1.js" }
+   
   },
   "eslintConfig": {
     "extends": [
